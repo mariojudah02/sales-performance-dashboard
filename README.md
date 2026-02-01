@@ -19,6 +19,12 @@
 - Identified revenue concentration and customer dependency risks
 - Implemented the dashboard using Power BI Service (Web)
 
+## 🎥 Dashboard Walkthrough (Video)
+
+▶️ **Click the image below to watch a 3-minute walkthrough of the dashboard**
+
+[![Dashboard Walkthrough](visuals/video_thumbnail.png)](https://youtu.be/KIrvl34hw40)
+
 
 ## Business Context
 This project simulates a **Business Intelligence use case** for an e-commerce company operating across multiple U.S. states and cities.
