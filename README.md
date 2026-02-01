@@ -19,9 +19,9 @@
 - Identified revenue concentration and customer dependency risks
 - Implemented the dashboard using Power BI Service (Web)
 
-## 🎥 Dashboard Walkthrough (Video)
+## Dashboard Walkthrough (Video)
 
-▶️ **Click the image below to watch a 3-minute walkthrough of the dashboard**
+**Click the image below to watch a 3-minute walkthrough of the dashboard**
 
 [![Dashboard Walkthrough](visuals/video_thumbnail.png)](https://youtu.be/KIrvl34hw40)
 
